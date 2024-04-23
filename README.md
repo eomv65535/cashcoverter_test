@@ -11,8 +11,9 @@ Apache 2.4.54, PHP 8.1.12, MariaDB v10.4.27 Laravel v10.9.0, Vite v4.3.3, Jetstr
 
 1. Clonar el repositorio: git clone https://github.com/eomv65535/cashcoverter_test.git
 2. npm install
-3. php artisan migrate
-4. php artisan db:seed --class=LoanSeeder
+3. composer install
+4. php artisan migrate
+5. php artisan db:seed --class=LoanSeeder
 
 ## Ejecución
 
